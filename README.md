@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kyomel
+- 👀 I’m interested in Backend and Data
+- 🌱 I’m currently learning NodeJS, Golang, Python, Java
+- 📫 How to reach me LinkedIn
