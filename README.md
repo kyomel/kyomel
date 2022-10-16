@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kyomel
-- 👀 I’m interested in Backend and Data
+- 👀 I’m interested in Backend, Data Engineer, and Product
 - 🌱 I’m currently learning NodeJS, Golang, Python, Java
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/michael-stevan-lapandio/)
