@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working in Software Engineer and interest about Data 
 
 
