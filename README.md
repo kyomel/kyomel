@@ -12,6 +12,8 @@
 
   <img src="https://komarev.com/ghpvc/?username=kyomel&style=flat-square&color=blue" alt=""/>
 
+  <a href="https://app.daily.dev/kyomel"><img src="https://api.daily.dev/devcards/v2/w3V6yoC8OYyiR5QEGX0xE.png?type=wide&r=uji" width="652" alt="Michael Lapandio's Dev Card"/></a>
+
   <h1>
     {{ Hello There... }}
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
