@@ -20,7 +20,7 @@
 ### :man_technologist: About Me:
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- :telescope: I’m working as a Software Engineer and now focussed on backend web development.
+- :telescope: I’m working as a Software Engineer and focussed on backend development. In other topic I like about blockchain technology and AI.
 - :zap: In my free time, I like exploring new stack technologies and practice solve problems.
 - :basketball: My hobby is playing basketball.
 
