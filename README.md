@@ -70,7 +70,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### 🍎 Pacman Contribution Graph
+### Pacman Game View
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyomel/kyomel/output/pacman-contribution-graph-dark.svg">
