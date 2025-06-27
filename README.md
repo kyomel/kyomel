@@ -46,6 +46,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
 </div>
 
+---
+
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=kyomel&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -57,10 +59,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![](https://visitcount.itsvg.in/api?id=kyomel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=kyomel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
