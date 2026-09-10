@@ -1,77 +1,77 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Kyomel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Blockchain%20%7C%20AI&descAlignY=60&descSize=18" alt="Kyomel profile header" width="100%" />
 
-  <div id="badges">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-stevan-lapandio/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://facebook.com/https://www.facebook.com/michael.limabelas">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  </div>
+  <h1>Hi, I'm Kyomel</h1>
+  <p>Backend-focused software engineer from Indonesia.</p>
 
-  <img src="https://komarev.com/ghpvc/?username=kyomel&style=flat-square&color=blue" alt=""/>
-  <h1>
-    {{ Hello There... }}
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <a href="https://www.linkedin.com/in/michael-stevan-lapandio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/michael.limabelas">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://github.com/kyomel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br />
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=kyomel&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="Profile views" />
 </div>
 
-### :man_technologist: About Me:
+<p align="center">
+  <a href="https://github.com/MagicLike/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Building+reliable+backend+systems;Exploring+blockchain+and+AI;Always+learning%2C+always+shipping" alt="Typing introduction" />
+  </a>
+</p>
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+## About me
 
-- :telescope: I’m working as a Software Engineer and focussed on backend development. In other topic I like about blockchain technology and AI.
-- :zap: In my free time, I like exploring new stack technologies and practice solve problems.
-- :basketball: My hobby is playing basketball.
+- I build backend services and APIs with a focus on reliability, maintainability, and clear system design.
+- I am interested in blockchain technology, AI, distributed systems, and new developer tools.
+- I enjoy learning new technologies and solving engineering problems in my spare time.
+- Away from the keyboard, you will usually find me playing basketball.
 
-### 💻 Languages and Tools:
+## Languages and tools
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgesql" alt="Postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original-wordmark.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,docker,python,linux,apple,graphql,kubernetes,mongodb,redis,postgres,rust,elixir,cs&perline=8" alt="Languages and tools" />
+  </a>
+</p>
 
----
+<p align="center">
+  <sub>Some are part of my daily toolkit; others are technologies I am actively exploring.</sub>
+</p>
 
-### 📊 GitHub Stats:
+## GitHub activity
 
-![](https://github-readme-stats.vercel.app/api?username=kyomel&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kyomel&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyomel&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=kyomel&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="Kyomel's GitHub stats" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kyomel&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Kyomel's top languages" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=kyomel&theme=transparent&hide_border=true" alt="Kyomel's GitHub streak" />
+  </a>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=kyomel&icon=0&color=0)](https://visitcount.itsvg.in)
+## Contribution trail
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyomel/kyomel/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyomel/kyomel/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/kyomel/kyomel/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+  </picture>
+</p>
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-### 🎮 Pacman Game Contribution
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyomel/kyomel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyomel/kyomel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kyomel/kyomel/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <i>Thanks for stopping by. Let's build something useful.</i>
+</p>
